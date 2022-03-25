@@ -5,7 +5,7 @@ pipeline {
 		
 		// ******ALL CODE TO BE ADDED BELOW THIS COMMENT******
 		
-			
+		//my change line	
 			
 		//Code starts for stage Clean
         stage('Clean') {
